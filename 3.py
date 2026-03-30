@@ -1,6 +1,6 @@
 def main():
     a = 10
-    b = 5
+    b = 2
     result = concat_funtion(a,b)
     my_string = "the entered value" , a , "and" , b , "=", result 
     display_result(my_string)
