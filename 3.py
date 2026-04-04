@@ -12,4 +12,4 @@ def concat_funtion(x,y):
 def display_result(my_string):
         print(my_string)
     
-main
+main()
